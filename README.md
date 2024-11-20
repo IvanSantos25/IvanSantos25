@@ -2,7 +2,7 @@
 
 <h2> I am learning to program in various languages: </h2>
 
-<H4>Language </H4>
+<h3>Language</h3>
 <span>
 <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </span>
