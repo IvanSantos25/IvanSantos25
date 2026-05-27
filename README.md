@@ -4,5 +4,5 @@
 
 <span>
 <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src= "https://blog.scaleflex.com/content/images/2022/12/What-is-DAM-4.png" >
+<img src= "https://e7.pngegg.com/pngimages/63/313/png-clipart-html-computer-icons-world-wide-web-text-logo-thumbnail.png" >
 </span>
