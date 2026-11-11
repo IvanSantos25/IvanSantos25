@@ -1,9 +1,10 @@
-<h1 align="center">Hi! I'm Ivan  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="40"></h1>
+<h1 align="center">Hi! I'm Ivan  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="40">
+</h1>
 
-<h2> Multi-plataform Application Development 
+<h2> Multi-plataform Application Development Student
 </h2>
 <p>
-  Student
+  
 </p>
   
 <span>
